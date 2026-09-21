@@ -1,0 +1,8 @@
+STORE RECEIPT
+
+Order ID: ORD1001
+Product: Leather Jacket
+Category: Clothing
+Purchase Date: 2026-09-01
+Price: ₹4999
+Customer: Rahul
